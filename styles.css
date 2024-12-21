@@ -102,6 +102,7 @@ table {
 
 td {
   padding: 10px;
+  border-bottom: 2px solid hsl(30, 18%, 87%);
 }
 
 @media (max-width: 785px) {
